@@ -2,6 +2,7 @@
 
 GroveCamera is a skecth to transfer captured image from M5Camera to M5Stack or M5Paper, using Grove connectors and cable with UART.
 Please see counterparts of this skecth for M5Stack and M5Paper:
+
 https://github.com/k-natori/GroveCameraStack
 
 https://github.com/k-natori/GroveCameraPaper
